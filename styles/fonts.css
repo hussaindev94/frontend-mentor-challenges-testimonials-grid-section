@@ -1,10 +1,16 @@
 /*Barlowsemicondenced-medium-500*/
 @font-face {
-    font-family: ;
-    src: url();
+    font-family: "Medium-BarLowSemiCondenced";
+    src: url("../assets/fonts/BarlowSemiCondensed-Medium.ttf");
+    font-weight: 500;
+    font-display: swap;
+
 }
 /*Barlowsemicondenced-semiblod-600*/
 @font-face {
-    font-family: ;
-    src: url();
+    font-family: "SemiBold-BarLowSemiCondenced";
+    src: url("../assets/fonts/BarlowSemiCondensed-SemiBold.ttf");
+    font-weight: 600;
+    font-display: swap;
+
 }

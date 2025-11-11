@@ -1,0 +1,58 @@
+:root {
+  /*Colors variables*/
+
+  /*Primary color variables*/
+  --primary-color-purole-50: hsl(260, 100%, 85%);
+  --primary-color-purole-300: hsl(264, 82%, 70%);
+  --primary-color-purole-500: hsl(263, 55%, 52%);
+
+  /*neutral color variables*/
+  --neutral-black-color: hsl(0, 0%, 7%);
+  --neutral-dark-black-color: hsl(219, 29%, 14%);
+  --neutral-white-color: hsl(0, 0%, 100%);
+  --neutral-gray-color-100: hsl(214, 17%, 92%);
+  --neutral-gray-color-200: hsl(0, 0%, 81%);
+  --neutral-gray-color-400: hsl(224, 10%, 45%);
+  --neutral-grayy-color-500: hsl(217, 19%, 35%);
+
+  /*Typography variables*/
+  /*Test preset 1*/
+  --text-preset-1: "SemiBold-BarLowSemiCondenced", system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  --text-preset-1-size: 2rem;
+  --text-reset-1-line-height: 120%;
+  --test-preset-1-letter-spacing: 0rem;
+
+  /*Text preset 2*/
+    --text-preset-2: "Medium-BarLowSemiCondenced", system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  --text-preset-2-size: 1.3rem;
+  --text-reset-2-line-height: 110%;
+  --test-preset-2-letter-spacing: 0rem;
+
+    /*Text preset 3*/
+    --text-preset-3:"Medium-BarLowSemiCondenced", system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  --text-preset-3-size: 1.3rem;
+  --text-reset-3-line-height: 140%;
+  --test-preset-3-letter-spacing: 0rem;
+
+    /*Text preset 4*/
+    --text-preset-4: "Medium-BarLowSemiCondenced" ,system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  --text-preset-4-size: 1.1rem;
+  --text-reset-4-line-height: 110%;
+  --test-preset-4-letter-spacing: 0rem;
+
+  /*Spacing variables*/
+  --spacing-500: 4rem;
+  --spacing-400: 3.2rem;
+  --spacing-300: 2.4rem;
+  --spacing-200: 1.6rem;
+  --spacing-100: 0.8rem;
+  --spacing-50: 0.4rem;
+}
+
+html {
+  font-size: 62.5%;
+  box-sizing: border-box;
+}
+
+body {
+}
